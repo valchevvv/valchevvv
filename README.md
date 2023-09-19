@@ -3,7 +3,7 @@
 
 
 ### About me:
-I'm a Web Developer based in Bulgaria
+I'm a Web and Desktop App developer based in Bulgaria
 
 - 👀 I’m interested in Programming
 - 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
