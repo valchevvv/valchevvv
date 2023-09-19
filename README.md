@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Valchev</h1>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhNjIyMzNhOThkZjBkNTQ0NWVkNzJlZTYyMzE1NDJhODhiMTk2OSZjdD1n/q9T36aFCd16CZwDpCb/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 ### About me:
