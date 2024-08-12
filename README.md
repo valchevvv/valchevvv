@@ -11,7 +11,7 @@ I'm a Web and Desktop App developer based in Bulgaria
 <br/>
 
  ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,ts,react,vue,redux,html,css,scss,bootstrap,nodejs,expressjs,mongodb,mysql,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,ts,solidity,react,vue,redux,html,css,scss,bootstrap,nodejs,expressjs,mongodb,mysql,lua)](https://skillicons.dev)
  <br/>
  
 ## 🔥My Stats:
