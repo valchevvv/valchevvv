@@ -6,8 +6,6 @@
 I'm a Web and Desktop App developer based in Bulgaria
 
 - 👀 I’m interested in Programming
-- 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
-- My Porftolio <a href="https://valchevvv.com" target="_blank">valchevvv.com</a>
 <br/>
 
  ### :hammer_and_wrench: Languages and Tools :
