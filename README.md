@@ -13,4 +13,4 @@ I'm a Web and Desktop App developer based in Bulgaria
  <br/>
  
 ## 🔥My Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valchevvv&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=valchevvv)](https://github.com/anuraghazra/github-readme-stats)
